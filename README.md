@@ -8,7 +8,7 @@
 
 ## style images
 
-<img src="data/style/udnie.jpg",width="50%",height="50%">
+<img src="data/style/udnie.jpg" width="50%" height="50%">
 
 ## result
 
