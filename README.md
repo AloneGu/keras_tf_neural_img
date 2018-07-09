@@ -8,16 +8,14 @@
 
 ## style images
 
-<img src="data/style/des_glaneuses.jpg">
-<img src="data/style/la_muse.jpg">
 <img src="data/style/udnie.jpg">
 
 ## result
 
 see the transform notebooks or train notebooks
 
-<img src="data/style/res.png">
-<img src="data/style/res2.png">
-<img src="data/style/res3.png">
+<img src="data/output/res.png">
+<img src="data/output/res2.png">
+<img src="data/output/res3.png">
 
 
