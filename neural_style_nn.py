@@ -65,6 +65,3 @@ class FastNeuralStyle(object):
                 imsave('{}_res_org.png'.format(i), x)
                 self.model.save('/tmp/nn_weights.h5')
 
-if __name__=='__main__':
-    nn = FastNeuralStyle(style_weight=4.0,content_weigth=1.0,tv_weight=1e-6,style_p='/home/guwei/style/udnie.jpg',img_size=(256,256))
-    nn.train('/home/guwei/nn_style_dir/val2017',2000,1)
